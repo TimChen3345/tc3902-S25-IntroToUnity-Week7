@@ -1,5 +1,5 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# Intro To Unity Week 7 Homework
 
-DO NOT LEAVE IT LIKE THIS!!!
+Still thinking about the name of it
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+A little android trying to retrieve some data from an abandoned space station, where it encountered a hostile entity.
